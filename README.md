@@ -2,4 +2,4 @@
 
 Windows CMD Command
 
-adb.exe shell << r.sh
+adb.exe shell < r.sh
