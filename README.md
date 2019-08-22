@@ -1,2 +1,5 @@
 # adb-flood
-adb shell flood text
+
+Windows CMD Command
+
+adb.exe shell << r.sh
